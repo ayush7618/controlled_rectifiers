@@ -1,0 +1,6 @@
+{
+  "name": "ThyroWave - Controlled Rectifier Simulator",
+  "description": "Interactive real-time thyristor controlled rectifier simulator for half-wave and full-wave topologies with adjustable firing angles, multi-trace oscilloscope, dynamic circuit schematics, and harmonic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
